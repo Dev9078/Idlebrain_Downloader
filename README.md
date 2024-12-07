@@ -1,5 +1,5 @@
 
-# Idlebrain Downloader
+# Idlebrain Downloader 2024
 
 A Python-based tool to asynchronously download a sequence of images from a base URL using dynamic URL generation. The program ensures integrity checks for downloaded images and provides detailed progress updates using the `rich` library.
 
