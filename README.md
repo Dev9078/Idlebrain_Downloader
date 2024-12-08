@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 For suggestions, questions, or feedback, contact:
 
 - **Name**: Devendra Sonawane
-- **Email**: [dpsonawane789@gmail.com]
-- **GitHub**: [Dev9078](https://github.com/Dev9078)
+- **Email**: [Mail me](mailto:dpsonawane789@gmail.com)
+- **GitHub**: [Devson](https://github.com/Dev9078)
 
 ---
