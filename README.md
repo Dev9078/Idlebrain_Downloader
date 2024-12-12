@@ -119,6 +119,6 @@ For suggestions, questions, or feedback, contact:
 
 - **Name**: Devendra Sonawane
 - **Email**: [Mail me](mailto:dpsonawane789@gmail.com)
-- **GitHub**: [Devson](https://github.com/Dev9078)
+- **GitHub**: [Devson](https://github.com/DevSon1024)
 
 ---
